@@ -1,0 +1,7 @@
+target
+nb-configuration.xml
+dependency-reduced-pom.xml
+/.idea
+/enumExample.iml
+/enumExample.ipr
+/enumExample.iws
